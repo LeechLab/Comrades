@@ -1,0 +1,19 @@
+{
+  'Drawstring Sack':{
+    'ORIGINAL':[false,false,"286385",0],
+  },
+  'Duffle Bag':{
+    'ORIGINAL':[false,false,"ffffff",0],
+    'Successful Heist':[true,false,"ffffff",5000],
+    'Medkit':[true,true,"ffffff",7500],
+  },
+  'Military Assault Pack':{
+    'ORIGINAL':[false,false,"596943",0],
+  },
+  'Tactical Backpack':{
+    'ORIGINAL':[false,false,"585858",0],
+  },
+  'Urban Backpack':{
+    'ORIGINAL':[false,false,"ffffff",0],
+  },
+}
