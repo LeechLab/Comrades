@@ -1,28 +1,28 @@
 {
-  'Ammo Vest':{
-    'ORIGINAL':[false,'#ffffff',0],
+  "Ammo Vest":{
+    "ORIGINAL":[false,"#ffffff",0],
   },
-  'EOD Bomb Suit':{
-    'ORIGINAL':[false,'#ffffff',0],
+  "EOD Bomb Suit":{
+    "ORIGINAL":[false,"#ffffff",0],
   },
-  'Ghillie Suit':{
-    'ORIGINAL':[false,'#ffffff',0],
+  "Ghillie Suit":{
+    "ORIGINAL":[false,"#ffffff",0],
   },
-  'Level I Soft Armor':{
-    'ORIGINAL':[false,'#ffffff',0],
-    'Terrorist':[true,'#ffffff',10000],
+  "Level I Soft Armor":{
+    "ORIGINAL":[false,"#ffffff",0],
+    "Terrorist":[true,"#ffffff",10000],
   },
-  'Level II Ballistic Vest':{
-    'ORIGINAL':[false,'#ffffff',0],
-    'US Police:[true,'#ffffff',5000],
+  "Level II Ballistic Vest":{
+    "ORIGINAL":[false,"#ffffff",0],
+    "US Police:[true,"#ffffff",5000],
   },
-  'Level III Armor':{
-    'ORIGINAL':[false,'#ffffff',0],
+  "Level III Armor":{
+    "ORIGINAL":[false,"#ffffff",0],
   },
-  'Level IV Suit':{
-    'ORIGINAL':[false,'#ffffff',0],
+  "Level IV Suit":{
+    "ORIGINAL":[false,"#ffffff",0],
   },
-  'Lightweight Vest':{
-    'ORIGINAL':[false,'#ffffff',0],
+  "Lightweight Vest":{
+    "ORIGINAL":[false,"#ffffff",0],
   }
 }
