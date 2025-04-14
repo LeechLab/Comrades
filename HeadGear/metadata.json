@@ -1,0 +1,50 @@
+{
+  'Balaclava':{
+    'ORIGINAL':[false,'#ffffff',0],
+    'Pantyhose':[true,'#ffffff',5000]
+  },
+  'Beret':{
+    'ORIGINAL':[false,'#962734',0],
+  },
+  'Boonie Hat':{
+    'ORIGINAL':[false,'#ffffff',0],
+  },
+  'Cap':{
+    'ORIGINAL':[false,'#286385',0],
+  },
+  'Cowboy Hat':{
+    'ORIGINAL':[false,'#ffffff',0],
+  },
+  'Ghillie Hat':{
+    'ORIGINAL':[false,'#ffffff',0],
+  },
+  'Beret':{
+    'ORIGINAL':[false,'#962734',0],
+  },
+  'Pith Helmet':{
+    'ORIGINAL':[false,'#ffffff',0],
+  },
+  'Ballistic Bump':{
+    'ORIGINAL':[false,'#ffffff',0],
+  },
+  'Tactical Bump':{
+    'ORIGINAL':[false,'#ffffff',0],
+  },
+  'Bulletproof Mask':{
+    'ORIGINAL':[false,'#ffffff',0],
+    'Clown Mask':[true,'#ffffff',10000]
+  },
+  'EOD Helmet':{
+    'ORIGINAL':[false,'#ffffff',0],
+  },
+  'Hard Hat':{
+    'ORIGINAL':[false,'#fac002',0],
+    'Supervisor':[false,'#fefefe',500],
+    'Electrician':[false,'#2419f7',500],
+    'Safety':[false,'#f78c00',500],
+    'Visitor':[false,'#807e7d',500]
+  },
+  'Riot Control':{
+    'ORIGINAL':[false,'#ffffff',0],
+  },
+}
