@@ -10,7 +10,7 @@
   },
   "Karambit": {
     "ORIGINAL": [false, "#ffffff",0],
-    "Blue Gem": [true, "#ffffff",0]
+    "Blue Gem": [true, "#ffffff",2500000]
   },
   "M9 Bayonet": {
     "ORIGINAL": [false, "#ffffff",0]
