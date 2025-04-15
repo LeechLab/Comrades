@@ -3,7 +3,8 @@
     "ORIGINAL": [false, "#ffffff"]
   },
   "FN 509": {
-    "ORIGINAL": [false, "#ffffff"]
+    "ORIGINAL": [false, "#ffffff"],
+    "Edge XL":[true,"ffffff"],
   },
   "M1911": {
     "ORIGINAL": [false, "#ffffff"]
