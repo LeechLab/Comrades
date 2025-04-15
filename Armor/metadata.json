@@ -14,7 +14,7 @@
   },
   "Level II Ballistic Vest":{
     "ORIGINAL":[false,"#ffffff",0],
-    "US Police:[true,"#ffffff",5000],
+    "US Police":[true,"#ffffff",5000],
   },
   "Level III Armor":{
     "ORIGINAL":[false,"#ffffff",0],
