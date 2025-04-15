@@ -1,153 +1,153 @@
 {
   "Desert Eagle": {
-    "ORIGINAL": [false, "#ffffff"]
+    "ORIGINAL": [false, "#ffffff",0]
   },
   "FN 509": {
-    "ORIGINAL": [false, "#ffffff"],
-    "Edge XL":[true,"ffffff"],
+    "ORIGINAL": [false, "#ffffff",0],
+    "Edge XL":[true,"ffffff",15000],
   },
   "M1911": {
-    "ORIGINAL": [false, "#ffffff"]
+    "ORIGINAL": [false, "#ffffff",0]
   },
   "M93R": {
-    "ORIGINAL": [false, "#ffffff"]
+    "ORIGINAL": [false, "#ffffff",0]
   },
   "SIG P220": {
-    "ORIGINAL": [false, "#ffffff"]
+    "ORIGINAL": [false, "#ffffff",0]
   },
   "MK23-S": {
-    "ORIGINAL": [false, "#ffffff"]
+    "ORIGINAL": [false, "#ffffff",0]
   },
   "Governor": {
-    "ORIGINAL": [false, "#ffffff"]
+    "ORIGINAL": [false, "#ffffff",0]
   },
   "Rhino 40DS": {
-    "ORIGINAL": [false, "#ffffff"]
+    "ORIGINAL": [false, "#ffffff",0]
   },
   "Blackhawk": {
-    "ORIGINAL": [false, "#ffffff"]
+    "ORIGINAL": [false, "#ffffff",0]
   },
   "MP5-SD": {
-    "ORIGINAL": [false, "#ffffff"]
+    "ORIGINAL": [false, "#ffffff",0]
   },
   "Micro Uzi": {
-    "ORIGINAL": [false, "#ffffff"]
+    "ORIGINAL": [false, "#ffffff",0]
   },
   "Uzi": {
-    "ORIGINAL": [false, "#ffffff"]
+    "ORIGINAL": [false, "#ffffff",0]
   },
   "UMP": {
-    "ORIGINAL": [false, "#ffffff"]
+    "ORIGINAL": [false, "#ffffff",0]
   },
   "MAC-10": {
-    "ORIGINAL": [false, "#ffffff"]
+    "ORIGINAL": [false, "#ffffff",0]
   },
   "FAMAE SAF": {
-    "ORIGINAL": [false, "#ffffff"]
+    "ORIGINAL": [false, "#ffffff",0]
   },
   "FN P90": {
-    "ORIGINAL": [false, "#ffffff"]
+    "ORIGINAL": [false, "#ffffff",0]
   },
   "Vector": {
-    "ORIGINAL": [false, "#ffffff"]
+    "ORIGINAL": [false, "#ffffff",0]
   },
   "Spectre M4": {
-    "ORIGINAL": [false, "#ffffff"]
+    "ORIGINAL": [false, "#ffffff",0]
   },
   "Scorpion Evo 3 A1": {
-    "ORIGINAL": [false, "#ffffff"]
+    "ORIGINAL": [false, "#ffffff",0]
   },
   "CMMG MkG": {
-    "ORIGINAL": [false, "#ffffff"]
+    "ORIGINAL": [false, "#ffffff",0]
   },
   "AK-47": {
-    "ORIGINAL": [false, "#ffffff"]
+    "ORIGINAL": [false, "#ffffff",0]
   },
   "M4A1": {
-    "ORIGINAL": [false, "#ffffff"]
+    "ORIGINAL": [false, "#ffffff",0]
   },
   "SCAR-H": {
-    "ORIGINAL": [false, "#ffffff"]
+    "ORIGINAL": [false, "#ffffff",0]
   },
   "IMBEL IA2": {
-    "ORIGINAL": [false, "#ffffff"]
+    "ORIGINAL": [false, "#ffffff",0]
   },
   "Groza": {
-    "ORIGINAL": [false, "#ffffff"]
+    "ORIGINAL": [false, "#ffffff",0]
   },
   "FAMAS": {
-    "ORIGINAL": [false, "#ffffff"]
+    "ORIGINAL": [false, "#ffffff",0]
   },
   "Galil ACE": {
-    "ORIGINAL": [false, "#ffffff"]
+    "ORIGINAL": [false, "#ffffff",0]
   },
   "Honey Badger": {
-    "ORIGINAL": [false, "#ffffff"]
+    "ORIGINAL": [false, "#ffffff",0]
   },
   "AA12": {
-    "ORIGINAL": [false, "#ffffff"]
+    "ORIGINAL": [false, "#ffffff",0]
   },
   "Benelli M4": {
-    "ORIGINAL": [false, "#ffffff"]
+    "ORIGINAL": [false, "#ffffff",0]
   },
   "SPAS-12": {
-    "ORIGINAL": [false, "#ffffff"]
+    "ORIGINAL": [false, "#ffffff",0]
   },
   "STF12": {
-    "ORIGINAL": [false, "#ffffff"]
+    "ORIGINAL": [false, "#ffffff",0]
   },
   "Rossi Overland": {
-    "ORIGINAL": [false, "#ffffff"]
+    "ORIGINAL": [false, "#ffffff",0]
   },
   "KSG": {
-    "ORIGINAL": [false, "#ffffff"]
+    "ORIGINAL": [false, "#ffffff",0]
   },
   "Remington 870": {
-    "ORIGINAL": [false, "#ffffff"]
+    "ORIGINAL": [false, "#ffffff",0]
   },
   "Diablo": {
-    "ORIGINAL": [false, "#ffffff"]
+    "ORIGINAL": [false, "#ffffff",0]
   },
   "PKM": {
-    "ORIGINAL": [false, "#ffffff"]
+    "ORIGINAL": [false, "#ffffff",0]
   },
   "Ultimax 100": {
-    "ORIGINAL": [false, "#ffffff"]
+    "ORIGINAL": [false, "#ffffff",0]
   },
   "M249 SAW": {
-    "ORIGINAL": [false, "#ffffff"]
+    "ORIGINAL": [false, "#ffffff",0]
   },
   "REAPR": {
-    "ORIGINAL": [false, "#ffffff"]
+    "ORIGINAL": [false, "#ffffff",0]
   },
   "QBB-95": {
-    "ORIGINAL": [false, "#ffffff"]
+    "ORIGINAL": [false, "#ffffff",0]
   },
   "HK21": {
-    "ORIGINAL": [false, "#ffffff"]
+    "ORIGINAL": [false, "#ffffff",0]
   },
   "DP-28": {
-    "ORIGINAL": [false, "#ffffff"]
+    "ORIGINAL": [false, "#ffffff",0]
   },
   "VSS": {
-    "ORIGINAL": [false, "#ffffff"]
+    "ORIGINAL": [false, "#ffffff",0]
   },
   "AW50": {
-    "ORIGINAL": [false, "#ffffff"]
+    "ORIGINAL": [false, "#ffffff",0]
   },
   "HK G28": {
-    "ORIGINAL": [false, "#ffffff"]
+    "ORIGINAL": [false, "#ffffff",0]
   },
   "SRS A1": {
-    "ORIGINAL": [false, "#ffffff"]
+    "ORIGINAL": [false, "#ffffff",0]
   },
   "TRG-42": {
-    "ORIGINAL": [false, "#ffffff"]
+    "ORIGINAL": [false, "#ffffff",0]
   },
   "REPR MKII-S": {
-    "ORIGINAL": [false, "#ffffff"]
+    "ORIGINAL": [false, "#ffffff",0]
   },
   "Steyr Scout": {
-    "ORIGINAL": [false, "#ffffff"]
+    "ORIGINAL": [false, "#ffffff",0]
   }
 }
