@@ -1,68 +1,69 @@
 {
   "Bandage Scissors": {
-    "ORIGINAL": [false, "#ffffff"]
+    "ORIGINAL": [false, "#ffffff",0]
   },
   "Screwdriver": {
-    "ORIGINAL": [false, "#ffffff"]
+    "ORIGINAL": [false, "#ffffff",0]
   },
   "Pocket Knife": {
-    "ORIGINAL": [false, "#ffffff"]
+    "ORIGINAL": [false, "#ffffff",0]
   },
   "Karambit": {
-    "ORIGINAL": [false, "#ffffff"]
+    "ORIGINAL": [false, "#ffffff",0],
+    "Blue Gem": [true, "#ffffff",0]
   },
   "M9 Bayonet": {
-    "ORIGINAL": [false, "#ffffff"]
+    "ORIGINAL": [false, "#ffffff",0]
   },
   "Ka-Bar": {
-    "ORIGINAL": [false, "#ffffff"]
+    "ORIGINAL": [false, "#ffffff",0]
   },
   "Recon Tanto": {
-    "ORIGINAL": [false, "#ffffff"]
+    "ORIGINAL": [false, "#ffffff",0]
   },
   "Cold Steel SRK": {
-    "ORIGINAL": [false, "#ffffff"]
+    "ORIGINAL": [false, "#ffffff",0]
   },
   "Machete": {
-    "ORIGINAL": [false, "#ffffff"]
+    "ORIGINAL": [false, "#ffffff",0]
   },
   "Kukri": {
-    "ORIGINAL": [false, "#ffffff"]
+    "ORIGINAL": [false, "#ffffff",0]
   },
   "Tanto": {
-    "ORIGINAL": [false, "#ffffff"]
+    "ORIGINAL": [false, "#ffffff",0]
   },
   "Gladius": {
-    "ORIGINAL": [false, "#ffffff"]
+    "ORIGINAL": [false, "#ffffff",0]
   },
   "Arabian Cutlass": {
-    "ORIGINAL": [false, "#ffffff"]
+    "ORIGINAL": [false, "#ffffff",0]
   },
   "Katana": {
-    "ORIGINAL": [false, "#ffffff"]
+    "ORIGINAL": [false, "#ffffff",0]
   },
   "Crowbar": {
-    "ORIGINAL": [false, "#ffffff"]
+    "ORIGINAL": [false, "#ffffff",0]
   },
   "Pipe Wrench": {
-    "ORIGINAL": [false, "#ffffff"]
+    "ORIGINAL": [false, "#ffffff",0]
   },
   "Combat Shovel": {
-    "ORIGINAL": [false, "#ffffff"]
+    "ORIGINAL": [false, "#ffffff",0]
   },
   "Hammer": {
-    "ORIGINAL": [false, "#ffffff"]
+    "ORIGINAL": [false, "#ffffff",0]
   },
   "Sledge Hammer": {
-    "ORIGINAL": [false, "#ffffff"]
+    "ORIGINAL": [false, "#ffffff",0]
   },
   "Iron Pipe": {
-    "ORIGINAL": [false, "#ffffff"]
+    "ORIGINAL": [false, "#ffffff",0]
   },
   "Bo Staff": {
-    "ORIGINAL": [false, "#ffffff"]
+    "ORIGINAL": [false, "#ffffff",0]
   },
   "Wooden Axe": {
-    "ORIGINAL": [false, "#ffffff"]
+    "ORIGINAL": [false, "#ffffff",0]
   }
 }
