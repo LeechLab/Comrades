@@ -52,7 +52,7 @@
   },
   "Uzi": {
     "ORIGINAL": [false, "#ffffff",0],
-    "Uzi Gore": [false, "#ffe8ec",0],
+    "Red Tint": [false, "#ffe8ec",500],
   },
   "UMP": {
     "ORIGINAL": [false, "#ffffff",0],
