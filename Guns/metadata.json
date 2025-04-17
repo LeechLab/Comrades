@@ -12,25 +12,34 @@
   },
   "M1911": {
     "ORIGINAL": [false, "#ffffff",0],
-    "Razorback":[false, "#ffffff",2500]
+    "Razorback":[true, "#ffffff",2500],
+    "Delta Elite":[true, "#ffffff",7500],
+    "Hardballer Longslide":[true, "#ffffff",10000],
   },
   "M93R": {
-    "ORIGINAL": [false, "#ffffff",0]
+    "ORIGINAL": [false, "#ffffff",0],
+    "Robocop Auto 9":[true, "#ffffff",500000],
   },
   "SIG P220": {
-    "ORIGINAL": [false, "#ffffff",0]
+    "ORIGINAL": [false, "#ffffff",0],
+    "Combat":[true, "#ffffff",5500],
+    "Stainless Elite":[true, "#ffffff",6250],
   },
   "MK23-S": {
-    "ORIGINAL": [false, "#ffffff",0]
+    "ORIGINAL": [false, "#ffffff",0],
+    "SOCOM":[true,"#ffffff",8000],
   },
   "Governor": {
-    "ORIGINAL": [false, "#ffffff",0]
+    "ORIGINAL": [false, "#ffffff",0],
+    "Standard Black":[true, "#ffffff",2500],
   },
   "Rhino 40DS": {
-    "ORIGINAL": [false, "#ffffff",0]
+    "ORIGINAL": [false, "#ffffff",0],
+    "OD Green":[true, "#ffffff",5000],
   },
   "Blackhawk": {
-    "ORIGINAL": [false, "#ffffff",0]
+    "ORIGINAL": [false, "#ffffff",0],
+    "Blued":[true, "#ffffff",4500],
   },
   "MP5-SD": {
     "ORIGINAL": [false, "#ffffff",0]
