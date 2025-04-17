@@ -1,13 +1,18 @@
 {
   "Desert Eagle": {
-    "ORIGINAL": [false, "#ffffff",0]
+    "ORIGINAL": [false, "#ffffff",0],
+    "Black Oxide":[true,"#ffffff",2500],
+    "Burnt Bronze":[true,"#ffffff",5000],
+    "Gold Tiger Stripe":[true,"#ffffff",10000],
   },
   "FN 509": {
     "ORIGINAL": [false, "#ffffff",0],
+    "Standard Black":[true, "#ffffff",2000],
     "Edge XL":[true,"ffffff",15000],
   },
   "M1911": {
-    "ORIGINAL": [false, "#ffffff",0]
+    "ORIGINAL": [false, "#ffffff",0],
+    "Razorback":[false, "#ffffff",2500]
   },
   "M93R": {
     "ORIGINAL": [false, "#ffffff",0]
