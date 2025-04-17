@@ -42,16 +42,20 @@
     "Blued":[true, "#ffffff",4500],
   },
   "MP5 SD": {
-    "ORIGINAL": [false, "#ffffff",0]
+    "ORIGINAL": [false, "#ffffff",0],
+    "Sub Sand": [true, "#ffffff",4500],
+    "High Tech MP5": [true, "#ffffff",12500],
   },
   "Micro Uzi": {
-    "ORIGINAL": [false, "#ffffff",0]
+    "ORIGINAL": [false, "#ffffff",0],
+    "Modern Pro":[true, "#ffffff",9500],
   },
   "Uzi": {
-    "ORIGINAL": [false, "#ffffff",0]
+    "ORIGINAL": [false, "#ffffff",0],
+    "Uzi Gore": [false, "#ff0000",0],
   },
   "UMP": {
-    "ORIGINAL": [false, "#ffffff",0]
+    "ORIGINAL": [false, "#ffffff",0],
   },
   "MAC 10": {
     "ORIGINAL": [false, "#ffffff",0]
