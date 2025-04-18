@@ -117,28 +117,42 @@
     "ORIGINAL": [false, "#ffffff",0]
   },
   "AA12": {
-    "ORIGINAL": [false, "#ffffff",0]
+    "ORIGINAL": [false, "#ffffff",0],
+    "Woodland Camo":[true, "#ffffff",3500],
   },
   "Benelli M4": {
-    "ORIGINAL": [false, "#ffffff",0]
+    "ORIGINAL": [false, "#ffffff",0],
+    "Desaturated":[true, "#ffffff",500],
+    "Standard Black":[true, "#ffffff",3750],
+    "Purple Night":[true, "#ffffff",2500],
   },
   "SPAS 12": {
-    "ORIGINAL": [false, "#ffffff",0]
+    "ORIGINAL": [false, "#ffffff",0],
+    "Muskrat":[true, "#ffffff",6500],
+    "Silver Stock":[true, "#ffffff",8500],
   },
   "STF12": {
-    "ORIGINAL": [false, "#ffffff",0]
+    "ORIGINAL": [false, "#ffffff",0],
+    "Rose Gold":[true, "#ffffff",4500],
+    "Compact":[true, "#ffffff",5000],
   },
   "Rossi Overland": {
-    "ORIGINAL": [false, "#ffffff",0]
+    "ORIGINAL": [false, "#ffffff",0],
+    "Urban Sand":[true, "#ffffff",750],
   },
   "KSG": {
-    "ORIGINAL": [false, "#ffffff",0]
+    "ORIGINAL": [false, "#ffffff",0],
+    "Backbone":[true, "#ffffff",1250],
+    "Curveball":[true, "#ffffff",7500],
   },
   "Remington 870": {
-    "ORIGINAL": [false, "#ffffff",0]
+    "ORIGINAL": [false, "#ffffff",0],
+    "Standard Black": [true, "#ffffff",3750],
+    "Marine Magnum": [true, "#ffffff",3750],
   },
   "Diablo": {
-    "ORIGINAL": [false, "#ffffff",0]
+    "ORIGINAL": [false, "#ffffff",0],
+    "Western": [true, "#ffffff",5000],
   },
   "PKM": {
     "ORIGINAL": [false, "#ffffff",0]
