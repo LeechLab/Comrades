@@ -2,6 +2,12 @@
   "Ammo Vest":{
     "ORIGINAL":[false,"#ffffff",0],
   },
+  "Jacket":{
+    "ORIGINAL":[false,"#ee6666",0],
+  },
+  "Suit":{
+    "ORIGINAL":[false,"#ffffff",0],
+  },
   "EOD Bomb Suit":{
     "ORIGINAL":[false,"#ffffff",0],
   },
