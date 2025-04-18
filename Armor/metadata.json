@@ -10,6 +10,7 @@
   },
   "Level I Soft Armor":{
     "ORIGINAL":[false,"#ffffff",0],
+    "Ammo Vest":[true,"#ffffff",1500],
     "Terrorist":[true,"#ffffff",10000],
   },
   "Level II Ballistic Vest":{
