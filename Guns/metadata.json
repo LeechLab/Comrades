@@ -53,30 +53,44 @@
   "Uzi": {
     "ORIGINAL": [false, "#ffffff",0],
     "Red Tint": [false, "#ffe8ec",500],
+    "Wooden Stock": [true, "#ffffff",2500],
   },
   "UMP": {
     "ORIGINAL": [false, "#ffffff",0],
+    "Streamline":[true, "#ffffff",8000],
+    "Extended Handguard":[true, "#ffffff",12000],
   },
   "MAC 10": {
-    "ORIGINAL": [false, "#ffffff",0]
+    "ORIGINAL": [false, "#ffffff",0],
+    "Tuxedo":[true, "#ffffff",5500]
   },
   "FAMAE SAF": {
-    "ORIGINAL": [false, "#ffffff",0]
+    "ORIGINAL": [false, "#ffffff",0],
+    "SAF 200":[true, "#ffffff",9500],
   },
   "FN P90": {
-    "ORIGINAL": [false, "#ffffff",0]
+    "ORIGINAL": [false, "#ffffff",0],
+    "Viper Strike":[true,"#ffffff",8000],
+    "Note Page":[true,"#ffffff",4500],
   },
   "Vector": {
-    "ORIGINAL": [false, "#ffffff",0]
+    "ORIGINAL": [false, "#ffffff",0],
+    "Alpine White":[true, "#ffffff",12000],
+    "SDP Combat Grey":[true, "#ffffff",8000],
   },
   "Spectre M4": {
-    "ORIGINAL": [false, "#ffffff",0]
+    "ORIGINAL": [false, "#ffffff",0],
+    "Spectre HC": [true, "#ffffff",6000],
   },
   "Scorpion Evo 3 A1": {
-    "ORIGINAL": [false, "#ffffff",0]
+    "ORIGINAL": [false, "#ffffff",0],
+    "Slate Metal": [true, "#ffffff",4500],
+    "SB Brace":[true, "#ffffff",9500],
   },
   "CMMG MkG": {
-    "ORIGINAL": [false, "#ffffff",0]
+    "ORIGINAL": [false, "#ffffff",0],
+    "Bazooka Green":[true, "#ffffff",2500],
+    "Banshee Poinsettia":[true, "#ffffff",8450],
   },
   "AK47": {
     "ORIGINAL": [false, "#ffffff",0]
