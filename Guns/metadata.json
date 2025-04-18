@@ -53,7 +53,7 @@
   "Uzi": {
     "ORIGINAL": [false, "#ffffff",0],
     "Red Tint": [false, "#ffe8ec",500],
-    "Wooden Stock": [true, "#ffffff",2500],
+    "Wood Stock": [true, "#ffffff",2500],
   },
   "UMP": {
     "ORIGINAL": [false, "#ffffff",0],
