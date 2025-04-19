@@ -3,12 +3,12 @@
     "ORIGINAL": [false, "#ffffff",0],
     "Black Oxide":[true,"#ffffff",2500],
     "Burnt Bronze":[true,"#ffffff",5000],
-    "Gold Tiger Stripe":[true,"#ffffff",10000],
+    "Gold Tiger Stripe":[true,"#ffffff",7500],
   },
   "FN 509": {
     "ORIGINAL": [false, "#ffffff",0],
     "Standard Black":[true, "#ffffff",2000],
-    "Edge XL":[true,"ffffff",15000],
+    "Edge XL":[true,"ffffff",7500],
   },
   "M1911": {
     "ORIGINAL": [false, "#ffffff",0],
@@ -35,11 +35,11 @@
   },
   "Rhino 40DS": {
     "ORIGINAL": [false, "#ffffff",0],
-    "OD Green":[true, "#ffffff",5000],
+    "OD Green":[true, "#ffffff",4500],
   },
   "Blackhawk": {
     "ORIGINAL": [false, "#ffffff",0],
-    "Blued":[true, "#ffffff",4500],
+    "Blued":[true, "#ffffff",2500],
   },
   "MP5 SD": {
     "ORIGINAL": [false, "#ffffff",0],
@@ -70,13 +70,13 @@
   },
   "FN P90": {
     "ORIGINAL": [false, "#ffffff",0],
-    "Viper Strike":[true,"#ffffff",8000],
-    "Note Page":[true,"#ffffff",4500],
+    "Viper Strike":[true,"#ffffff",6500],
+    "Note Page":[true,"#ffffff",2500],
   },
   "Vector": {
     "ORIGINAL": [false, "#ffffff",0],
     "Alpine White":[true, "#ffffff",12000],
-    "SDP Combat Grey":[true, "#ffffff",8000],
+    "SDP Combat Grey":[true, "#ffffff",4500],
   },
   "Spectre M4": {
     "ORIGINAL": [false, "#ffffff",0],
