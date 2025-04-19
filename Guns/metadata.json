@@ -93,28 +93,41 @@
     "Banshee Poinsettia":[true, "#ffffff",8450],
   },
   "AK47": {
-    "ORIGINAL": [false, "#ffffff",0]
+    "ORIGINAL": [false, "#ffffff",0],
+    "Folding Stock": [true, "#ffffff",2000],
   },
   "M4A1": {
-    "ORIGINAL": [false, "#ffffff",0]
+    "ORIGINAL": [false, "#ffffff",0],
+    "Block II Tan": [true, "#ffffff",5000],
+    "Factory": [true, "#ffffff",1250],
   },
   "SCAR H": {
-    "ORIGINAL": [false, "#ffffff",0]
+    "ORIGINAL": [false, "#ffffff",0],
+    "Standard Black": [true, "#ffffff",2500],
+    "Burnt Bronze":[true, "#ffffff",5000],
   },
   "IMBEL IA2": {
-    "ORIGINAL": [false, "#ffffff",0]
+    "ORIGINAL": [false, "#ffffff",0],
+    "Brazilian Camo":[true, "#ffffff",2000],
+    "Standard Black":[true, "#ffffff",2500],
   },
   "Groza": {
-    "ORIGINAL": [false, "#ffffff",0]
+    "ORIGINAL": [false, "#ffffff",0],
+    "Standard Black":[true, "#ffffff",2500],
   },
   "FAMAS": {
-    "ORIGINAL": [false, "#ffffff",0]
+    "ORIGINAL": [false, "#ffffff",0],
+    "Valorise": [true, "#ffffff",10000],
+    "FELIN System": [true, "#ffffff",55000],
   },
   "Galil ACE": {
-    "ORIGINAL": [false, "#ffffff",0]
+    "ORIGINAL": [false, "#ffffff",0],
+    "Hot Chili":[true, "#ffffff",2000],
   },
   "Honey Badger": {
-    "ORIGINAL": [false, "#ffffff",0]
+    "ORIGINAL": [false, "#ffffff",0],
+    "Clear Brook":[true, "#ffffff",3500],
+    "Inferno":[true, "#ffffff",8750],
   },
   "AA12": {
     "ORIGINAL": [false, "#ffffff",0],
@@ -123,8 +136,8 @@
   "Benelli M4": {
     "ORIGINAL": [false, "#ffffff",0],
     "Desaturated":[true, "#ffffff",500],
-    "Standard Black":[true, "#ffffff",3750],
-    "Purple Night":[true, "#ffffff",2500],
+    "Standard Black":[true, "#ffffff",2500],
+    "Purple Night":[true, "#ffffff",2000],
   },
   "SPAS 12": {
     "ORIGINAL": [false, "#ffffff",0],
@@ -147,7 +160,7 @@
   },
   "Remington 870": {
     "ORIGINAL": [false, "#ffffff",0],
-    "Standard Black": [true, "#ffffff",3750],
+    "Standard Black": [true, "#ffffff",2500],
     "Marine Magnum": [true, "#ffffff",3750],
   },
   "Diablo": {
