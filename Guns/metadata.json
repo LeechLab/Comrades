@@ -189,24 +189,32 @@
     "ORIGINAL": [false, "#ffffff",0]
   },
   "VSS": {
-    "ORIGINAL": [false, "#ffffff",0]
+    "ORIGINAL": [false, "#ffffff",0],
+    "Whisper":[true,"#ffffff",5000],
+    "Advanced":[true,"#ffffff",8750],
   },
   "AW50": {
-    "ORIGINAL": [false, "#ffffff",0]
+    "ORIGINAL": [false, "#ffffff",0],
+    "Standard Black": [true, "#ffffff",2500],
   },
   "G28": {
-    "ORIGINAL": [false, "#ffffff",0]
+    "ORIGINAL": [false, "#ffffff",0],
+    "Combat Grey":[true, "#ffffff",4500],
   },
   "SRS A1": {
-    "ORIGINAL": [false, "#ffffff",0]
+    "ORIGINAL": [false, "#ffffff",0],
+    "Silverback":[true, "#ffffff",2500],
   },
   "TRG 42": {
-    "ORIGINAL": [false, "#ffffff",0]
+    "ORIGINAL": [false, "#ffffff",0],
+    "Desert Tan": [true, "#ffffff",3000],
   },
   "REPR MKII S": {
-    "ORIGINAL": [false, "#ffffff",0]
+    "ORIGINAL": [false, "#ffffff",0],
+    "Burnt Bronze":[true,"#ffffff",5000],
   },
   "Steyr Scout": {
-    "ORIGINAL": [false, "#ffffff",0]
+    "ORIGINAL": [false, "#ffffff",0],
+    "Standard Black": [true, "#ffffff",2500],
   }
 }
